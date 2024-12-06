@@ -1,7 +1,6 @@
 body{
-    background: rgb(214, 4, 214);
-    background-repeat: no-repeat;
-    background-size:cover;
+   background: rgb(204,204,204);
+   background: radial-gradient(circle, rgba(204,204,204,1) 0%, rgba(177,81,213,1) 40%, rgba(3,56,66,1) 100%);
 }
 
 .title{
